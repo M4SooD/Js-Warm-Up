@@ -7,11 +7,3 @@ let str = "";
 while (i < 10) {
     console.log(str = str + i++);
 }
-
-//Second task
-function integerNumber(num) {
-  return parseInt(num); 
-}
-integerNumber(13.33);
-const result = integerNumber();
- console.log(result)
